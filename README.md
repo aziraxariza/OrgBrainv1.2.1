@@ -1,5 +1,5 @@
 # OrgBrain AI
-
+ 
 > AI-powered organizational intelligence platform that transforms company knowledge into a searchable, contextual knowledge system for faster decision-making and collaboration.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square\&logo=python)
