@@ -1,7 +1,7 @@
 # OrgBrain AI
  
 > AI-powered organizational intelligence platform that transforms company knowledge into a searchable, contextual knowledge system for faster decision-making and collaboration.
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square\&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square\&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square\&logo=postgresql)
